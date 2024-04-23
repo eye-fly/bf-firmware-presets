@@ -1,12 +1,10 @@
-#$ TITLE: meinTeli defoult setup
+#$ TITLE: Mein Teli Default Setup
 #$ FIRMWARE_VERSION: 4.4
 #$ CATEGORY: OTHER
 #$ STATUS: OFFICIAL
 #$ KEYWORDS: aux_modes, rateprofile, osd, vtx table
 #$ AUTHOR: Jacek / EyeFly
 #$ DISCUSSION: https://github.com/betaflight/firmware-presets/pull/nn
-
-#$ INCLUDE: presets/4.3/rates/defaults.txt
 
 set debug_mode = GYRO_SCALED
 
