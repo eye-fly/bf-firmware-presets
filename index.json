@@ -171,6 +171,7 @@
       "Garban",
       "IllusionFpv",
       "Ivan Efimov (Limon)",
+      "Jacek / EyeFly",
       "Jakub Espandr (FlyCamCzech)",
       "jappyjan",
       "Joshua Bardwell",
@@ -181,7 +182,6 @@
       "MinChan Kim",
       "mouseFPV",
       "MrAlucardDante",
-      "Name Lastname / Pilotname",
       "Neil Marek (Grower)",
       "NemesisXB",
       "QuadMcFly (Ryan Harrell)",
@@ -272,6 +272,7 @@
       "Audio TBS",
       "AutoSelect",
       "aux",
+      "aux_modes",
       "Avatar",
       "AyyyKayyy",
       "bando",
@@ -440,6 +441,7 @@
       "racing",
       "rad",
       "ranging",
+      "rateprofile",
       "rates",
       "rc",
       "rc link",
@@ -538,9 +540,6 @@
       "whoop",
       "whoop lite",
       "whooptopia",
-      "word1",
-      "word2",
-      "word3",
       "world champion",
       "wtfos",
       "youtube",
@@ -4033,20 +4032,21 @@
     },
     {
       "fullPath": "presets/4.4/mein_teli_/meinTeli.txt",
-      "hash": "5af00300ec19ca96907c939a3936c5c1cab865bc56d9afe95fb093ce1068e8ed",
-      "title": "7in long range cinematic by userx",
+      "hash": "42014d2a54f868ecf4f146a09925c86c22a407b070b5c8c98e4131b984319ad6",
+      "title": "meinTeli defoult setup",
       "firmware_version": [
         "4.4"
       ],
-      "category": "TUNE",
-      "status": "EXPERIMENTAL",
+      "category": "OTHER",
+      "status": "OFFICIAL",
       "keywords": [
-        "word1",
-        "word2",
-        "word3"
+        "aux_modes",
+        "rateprofile",
+        "osd",
+        "vtx table"
       ],
-      "author": "Name Lastname / Pilotname",
-      "priority": 1000000000000
+      "author": "Jacek / EyeFly",
+      "priority": 0
     },
     {
       "fullPath": "presets/4.4/osd/QuadMcFly_DJI_HD_OSD.txt",

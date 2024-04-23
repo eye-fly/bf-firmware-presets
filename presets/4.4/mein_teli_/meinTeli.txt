@@ -1,13 +1,9 @@
-#$ TITLE: 7in long range cinematic by userx
+#$ TITLE: meinTeli defoult setup
 #$ FIRMWARE_VERSION: 4.4
-#$ CATEGORY: TUNE
-#$ STATUS: EXPERIMENTAL
-#$ KEYWORDS: word1, word2, word3
-#$ AUTHOR: Name Lastname / Pilotname
-#$ DESCRIPTION: Description paragraph1
-#$ DESCRIPTION: Description pagagraph2  (as many description paragraphs as needed)
-#$ DISCLAIMER: Text of disclaimer (mandatory for VTx Presets)
-#$ WARNING: Text of warning
+#$ CATEGORY: OTHER
+#$ STATUS: OFFICIAL
+#$ KEYWORDS: aux_modes, rateprofile, osd, vtx table
+#$ AUTHOR: Jacek / EyeFly
 #$ DISCUSSION: https://github.com/betaflight/firmware-presets/pull/nn
 
 #$ INCLUDE: presets/4.3/rates/defaults.txt
